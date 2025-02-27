@@ -81,4 +81,12 @@ while True:
       product = num1 * num2
       print("Product:", product)
 
+a = float(input("enter the first num:"))
+b = float(input("enter the second num:"))
+print("avg=", (a + b)/2)
+
+a = int(input("enter the first num:"))
+b = int(input("enter the second num:"))
+print(a >=b) 
+
     
